@@ -2,5 +2,6 @@
 hayyyyyyyyyyy
 pokemon
 kahit ano
-# frngl
 hi guys kyahriaga was here
+# new
+lagyan ko java code na lesson ni sir hehe
